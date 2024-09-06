@@ -2,6 +2,7 @@ This repository contains the resources of the following 2nd year courses in the 
 
 PROFESSIONAL CORE COURSES
 
+
 FOR AIML ONLY
 1. Mathematics for AIML(MAIML)-MAT231ET
 3. Fundamentals of Data Structures and Data Analysis(DSDA)-AI233AI
@@ -14,4 +15,4 @@ FOR CS AND IS ONLY
 BASKET COURSES
 1. Environment and Sustainability-CV242AT
 2. Bio Safety Standards and Ethics-BT232AT
-3. Material Science for Engineers-ME232AT/ME242AT
+3. Material Science for Engineers-ME232AT/ME242AT3. Material Science for Engineers-ME232AT/ME242AT
