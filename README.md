@@ -9,7 +9,7 @@ FOR AIML ONLY
 5. Statistics For Data Science-AI235AT
 
 FOR CS AND IS
-1. Data Structures and Applications-IS233AI->Only notes by Girish Rao Salanke is there in this repo. https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/24b2226b815f73596782dbdd3b92703b4b659a2f/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke
+1. Data Structures and Applications-IS233AI->Only notes by Dr.Girish Rao Salanke is there in this repo. https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/24b2226b815f73596782dbdd3b92703b4b659a2f/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke
 
 BASKET COURSES
 1. Environment and Sustainability-CV242AT
