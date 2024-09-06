@@ -10,3 +10,4 @@ FOR AIML ONLY
 BASKET COURSES
 1. Environment and Sustainability-CV242AT
 2. Bio Safety Standards and Ethics-BT232AT
+3. Material Science for Engineers-ME232AT/ME242AT
