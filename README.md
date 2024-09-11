@@ -14,6 +14,4 @@ FOR CS AND IS ONLY
 2. Operating Systems-CS235AI
 
 BASKET COURSES
-1. Environment and Sustainability-CV242AT
-2. Bio Safety Standards and Ethics-BT232AT
-3. Material Science for Engineers-ME232AT/ME242AT3
+Refer https://github.com/AnanthMAthreya/2nd_year_basket_courses.git
