@@ -14,9 +14,9 @@ FOR CS AND IS ONLY
 2. Operating Systems-CS235AI
 
 FOR CS,IS AND AIML
-1. Discrete Mathematical Structures and Combinatorics-CS241AT
-2. Design and Analysis of Algorithms-CD343AI
-3. Computer Networks-CY245AT 
+1. Discrete Mathematical Structures and Combinatorics(DMS)-CS241AT
+2. Design and Analysis of Algorithms(DAA)-CD343AI
+3. Computer Networks(CN)-CY245AT 
 
 BASKET COURSES
 1. Environment and Sustainability-CV242AT
@@ -24,4 +24,4 @@ BASKET COURSES
 3. Material Science for Engineers-ME232AT/ME242AT3
 
 FOR ALL THE BRANCHES
-1. Universal Human Values-HS248AT
+1. Universal Human Values(UHV)-HS248AT
