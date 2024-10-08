@@ -15,7 +15,7 @@ This repository contains the resources of the following 2nd year courses in the 
 2. [Operating Systems-CS235AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/Only%20for%20CS%20and%20IS/CS235AI-Operating%20Systems)
 3. [Linear Algebra and Probability Theory-MAT231CT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/Only%20for%20CS%20and%20IS/MA231TC-Linear%20Algebra%20and%20Probability%20theory)
 
-## FOR CS,IS AND AIML
+### FOR CS,IS AND AIML
 1. [Discrete Mathematical Structures and Combinatorics(DMS)-CS241AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CS241AT-Discrete%20Mathematical%20Structures%20and%20Combinatorics(DMS))
 2. [Design and Analysis of Algorithms(DAA)-CD343AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA))
 3. [Computer Networks(CN)-CY245AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CY245AT-Computer%20Networks(CN)) 
