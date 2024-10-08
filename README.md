@@ -4,7 +4,7 @@ This repository contains the resources of the following 2nd year courses in the 
 # Courses in this repository
 ## Professional Core Courses
 ### FOR AIML ONLY
-1. Mathematics for AIML(MAIML)-MAT231ET
+1. [Mathematics for AIML(MAIML)-MAT231ET](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/78e29dd1df10596ebc5c1f1771fc1162e934aa57/3rd%20sem/AIML%20core/MAT231ET-Maths%20for%20AIML(MAIML))
 3. Fundamentals of Data Structures and Data Analysis(DSDA)-AI233AI
 4. Foundations of Cyber Physical Systems(FCPS)-AI234AI
 5. Statistics For Data Science-AI235AT
