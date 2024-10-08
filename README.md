@@ -25,6 +25,8 @@ This repository contains the resources of the following 2nd year courses in the 
 1. [Environment and Sustainability-CV242AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/Basket%20courses/CV232AT%2CCV242AT-Environment%20and%20sustainability)
 2. [Bio Safety Standards and Ethics-BT232AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/Basket%20courses/BT232AT-Bio%20safety%20standards%20and%20ethics)
 3. [Material Science for Engineers-ME232AT/ME242AT3](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/Basket%20courses/ME232AT-Materials%20Science%20for%20Engineers)
-
 ## For All The Branches
 1. [Universal Human Values(UHV)-HS248AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/HS248AT-Universal%20Human%20Values(UHV))
+# Stargazers
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&type=Timeline)](https://star-history.com/#AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&Timeline)
