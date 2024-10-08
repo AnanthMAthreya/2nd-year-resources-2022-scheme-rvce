@@ -1,4 +1,4 @@
-# Contributors
+  # Contributors
 1. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
 2. Ashwin Dharmavaram [Github](https://github.com/AshwinDEM)
 3. Aditi Shastri [Github](https://github.com/AditiShastri)
@@ -28,5 +28,4 @@ This repository contains the resources of the following 2nd year courses in the 
 ## For All The Branches
 1. [Universal Human Values(UHV)-HS248AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/HS248AT-Universal%20Human%20Values(UHV))
 # Stargazers
-## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&type=Timeline)](https://star-history.com/#AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&Timeline)
