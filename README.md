@@ -1,6 +1,5 @@
 # Introduction
 This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
-
 # Courses in this repository
 ## Professional Core Courses
 ### For AIML Only
@@ -9,17 +8,14 @@ This repository contains the resources of the following 2nd year courses in the 
 3. [Foundations of Cyber Physical Systems(FCPS)-AI234AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/AIML%20core/AI234AI-Cyber%20Physical%20Systems(FCPS))
 4. [Statistics For Data Science-AI235AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/AIML%20core/AI235AT-Statistics%20for%20Data%20Science)
 5. [Artificial Intelligence and Machine Learning-AI244AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)
-
 ### For CS and IS Only
 1. [Data Structures and Applications-IS233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/24b2226b815f73596782dbdd3b92703b4b659a2f/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke)
 2. [Operating Systems-CS235AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/Only%20for%20CS%20and%20IS/CS235AI-Operating%20Systems)
 3. [Linear Algebra and Probability Theory-MAT231CT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/Only%20for%20CS%20and%20IS/MA231TC-Linear%20Algebra%20and%20Probability%20theory)
-
 ### For CS,IS And AIML
 1. [Discrete Mathematical Structures and Combinatorics(DMS)-CS241AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CS241AT-Discrete%20Mathematical%20Structures%20and%20Combinatorics(DMS))
 2. [Design and Analysis of Algorithms(DAA)-CD343AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA))
 3. [Computer Networks(CN)-CY245AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CY245AT-Computer%20Networks(CN)) 
-
 ## Basket Courses
 1. [Environment and Sustainability-CV242AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/Basket%20courses/CV232AT%2CCV242AT-Environment%20and%20sustainability)
 2. [Bio Safety Standards and Ethics-BT232AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/Basket%20courses/BT232AT-Bio%20safety%20standards%20and%20ethics)
