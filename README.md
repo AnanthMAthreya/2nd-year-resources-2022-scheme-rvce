@@ -27,5 +27,7 @@ This repository contains the resources of the following 2nd year courses in the 
 3. [Material Science for Engineers-ME232AT/ME242AT3](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/Basket%20courses/ME232AT-Materials%20Science%20for%20Engineers)
 ## For All The Branches
 1. [Universal Human Values(UHV)-HS248AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/4th%20sem/HS248AT-Universal%20Human%20Values(UHV))
+# NPTEL elective for 4th sem
+For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
 # Stargazers
 [![Star History Chart](https://api.star-history.com/svg?repos=AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&type=Timeline)](https://star-history.com/#AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&Timeline)
