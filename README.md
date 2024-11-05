@@ -9,7 +9,7 @@ This repository contains the resources of the following 2nd year courses in the 
 ## Professional Core Courses
 ### For AIML Only
 1. [Mathematics for AIML(MAIML)-MAT231ET](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/78e29dd1df10596ebc5c1f1771fc1162e934aa57/3rd%20sem/AIML%20core/MAT231ET-Maths%20for%20AIML(MAIML))
-2. [Fundamentals of Data Structures and Data Analysis(DSDA)-AI233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/ef69bcbadc591cdf783121d11bfa9f7b351d094f/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA))
+2. [Fundamentals of Data Structures and Data Analysis(DSDA)-AI233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/fb64438ed8ea9e0e438b568b45a5ebacf6a115ba/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA))
 3. [Foundations of Cyber Physical Systems(FCPS)-AI234AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/9abf64c616c9f13fee727e81d7231e3b0c58e44b/3rd%20sem/AIML%20core/AI234AI-Cyber%20Physical%20Systems(FCPS))
 4. [Statistics For Data Science-AI235AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/c84e42802718c3feaafddfb5ab0db480fb734569/3rd%20sem/AIML%20core/AI235AT-Statistics%20for%20Data%20Science)
 5. [Artificial Intelligence and Machine Learning-AI244AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/dbfbf3b8267ec658ebcf2cd7d3c5a2281885ed71/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)
