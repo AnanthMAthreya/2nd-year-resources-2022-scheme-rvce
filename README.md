@@ -30,5 +30,15 @@ This repository contains the resources of the following 2nd year courses in the 
 1. [Universal Human Values(UHV)-HS248AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/HS248AT-Universal%20Human%20Values(UHV))
 # NPTEL elective for 4th sem
 For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
-# Stargazers
-[![Star History Chart](https://api.star-history.com/svg?repos=AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&type=Timeline)](https://star-history.com/#AnanthMAthreya/2nd-year-resources-2022-scheme-rvce.git&Timeline)
+# You can contribute
+## What can you contribute?
+- Any notes and question papers related to __second year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
+- The file size should not exceed 100 MB. If you want to add any textbook, then add only those chapters relevant to the course units must be added.
+## How to contribute?
+- If you are familiar with using GitHub:
+  + If you want to add materials to a course that is not there on this repo, create a folder and send a push request.
+  + Otherwise, just add files to the course folder and send a push request.
+- If you are not familiar with using GitHub, then please send materials to ananthmathreya@gmail.com
+# See more
+- [3rd year resources](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce)
+
