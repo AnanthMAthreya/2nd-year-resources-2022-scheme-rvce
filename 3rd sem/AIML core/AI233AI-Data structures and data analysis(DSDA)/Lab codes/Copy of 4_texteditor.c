@@ -2,146 +2,179 @@
 #include <stdlib.h>
 #include <string.h>
 
-struct node
-{
-    char line[80];
-    struct node *rlink;
-    struct node *llink;
-};
+#define MAX_LINE_LENGTH 80
 
-char buffer[80];
-char newline[80];
-int n, d;
+// Define the structure for each node (line) in the doubly linked list
+typedef struct Node {
+    char line[MAX_LINE_LENGTH];  // String to store text line (80 characters max)
+    struct Node* Left;           // Pointer to the left node
+    struct Node* Right;          // Pointer to the right node
+} Node;
 
-struct node *first, *temp, *rlink, *llink;
+// Global pointer to represent the start of the list
+Node* Start = NULL;
 
-void insert(char l[])
-{
+// Function prototypes
+Node* createNode(const char* text);
+void addLine(const char* text);
+void displayText();
+void insertAtPosition(int position, const char* text);
+void deleteAtPosition(int position);
 
-    struct node *newnode = (struct node *)malloc(sizeof(struct node));
-    newnode->rlink = NULL;
-    newnode->llink = NULL;
-    strcpy(newnode->line, l);
+int main() {
+    char buffer[MAX_LINE_LENGTH];
+    int choice, position;
 
-    if (first == NULL)
-    {
-        first = newnode;
-        temp = first;
+    // Step 2: Accept lines of text and store in the list
+    printf("Enter lines of text (type 'End of Text' to finish):\n");
+    while (1) {
+        fgets(buffer, MAX_LINE_LENGTH, stdin);
+        buffer[strcspn(buffer, "\n")] = '\0'; // Remove newline character
+
+        // Step 4: Stop if the input is "End of Text"
+        if (strcmp(buffer, "End of Text") == 0) {
+            break;
+        }
+        addLine(buffer); // Step 5-6: Add the line to the list
     }
 
-    else
-    {
+    while (1) {
+        printf("\nChoose an operation:\n");
+        printf("1. Insert at Position\n2. Delete at Position\n3. Display Text\n4. Exit\n");
+        printf("Enter choice: ");
+        scanf("%d", &choice);
+        getchar(); // To clear the newline character from input buffer
 
-        newnode->llink = temp;
+        switch (choice) {
+            case 1:
+                printf("Enter position to insert: ");
+                scanf("%d", &position);
+                getchar(); // To clear the newline character from input buffer
+                printf("Enter text to insert: ");
+                fgets(buffer, MAX_LINE_LENGTH, stdin);
+                buffer[strcspn(buffer, "\n")] = '\0';
+                insertAtPosition(position, buffer);
+                break;
+            case 2:
+                printf("Enter position to delete: ");
+                scanf("%d", &position);
+                deleteAtPosition(position);
+                break;
+            case 3:
+                displayText();
+                break;
+            case 4:
+                printf("Exiting.\n");
+                return 0;
+            default:
+                printf("Invalid choice.\n");
+        }
+    }
+    return 0;
+}
 
-        //   if (temp->rlink != NULL)
+// Function to create a new node with the given text
+Node* createNode(const char* text) {
+    Node* newNode = (Node*)malloc(sizeof(Node));
+    if (newNode == NULL) {
+        printf("Memory allocation failed!\n");
+        exit(1);
+    }
+    strncpy(newNode->line, text, MAX_LINE_LENGTH);
+    newNode->Left = NULL;
+    newNode->Right = NULL;
+    return newNode;
+}
 
-        temp->rlink = newnode;
-        temp = newnode;
+// Function to add a line of text to the end of the doubly linked list
+void addLine(const char* text) {
+    Node* New = createNode(text);
+
+    if (Start == NULL) { // If the list is empty
+        Start = New;
+    } else {
+        Node* temp = Start;
+        while (temp->Right != NULL) {
+            temp = temp->Right;
+        }
+        temp->Right = New;
+        New->Left = temp;
     }
 }
 
-void insertnew(char nl[], int p)
-{
+// Function to display all lines in the text
+void displayText() {
+    Node* temp = Start;
 
-    struct node *newnode = (struct node *)malloc(sizeof(struct node));
-    newnode->rlink = NULL;
-    newnode->llink = NULL;
-    temp = first;
-    strcpy(newnode->line, nl);
-
-    if (p == 1)
-    {
-        first->llink = newnode;
-        newnode->rlink = first;
-        first = newnode;
-        temp = first;
+    if (Start == NULL) {
+        printf("No text exists.\n");
+        return;
     }
 
-    else
-    {
-        for (int i = 0; i < p - 2; i++)
-        {
-            temp = temp->rlink;
-        }
-        {
-            newnode->llink = temp;
-            newnode->rlink = temp->rlink;
-            newnode->rlink->llink = newnode;
-            temp->rlink = newnode;
-            //   p = p + 1;
-        }
+    printf("Text:\n");
+    while (temp != NULL) {
+        printf("%s\n", temp->line);
+        temp = temp->Right;
     }
 }
 
-void display()
-{
+// Function to insert a line of text at a specific position
+void insertAtPosition(int position, const char* text) {
+    Node* New = createNode(text);
 
-    struct node *temp1 = first;
-    printf("\nDisplaying:\n");
-    while (temp1->rlink != NULL)
-    {
-
-        printf("%s\n", temp1->line);
-        temp1 = temp1->rlink;
-    }
-}
-
-void Delete(int p)
-{
-    int i;
-    // struct node *temp;
-    temp = first;
-
-    if (p == 1)
-    {
-        first = temp->rlink;
-        temp->rlink = NULL;
-    }
-    else
-    {
-        for (int i = 0; i <= p - 2; i++)
-        {
-            temp = temp->rlink;
-        }
-        {
-            temp->llink->rlink = temp->rlink;
-            temp->rlink->llink = temp->llink;
+    if (Start == NULL) { // If the list is empty
+        Start = New;
+    } else {
+        if (position == 1) { // Insert at the start
+            New->Right = Start;
+            Start->Left = New;
+            Start = New;
+        } else { // Insert at position P
+            Node* temp = Start;
+            for (int i = 1; i < position - 1 && temp->Right != NULL; i++) {
+                temp = temp->Right;
+            }
+            New->Right = temp->Right;
+            New->Left = temp;
+            if (temp->Right != NULL) {
+                temp->Right->Left = New;
+            }
+            temp->Right = New;
         }
     }
+    printf("Inserted text at position %d: %s\n", position, text);
 }
 
-void main()
-{
-
-    first = NULL;
-    temp = NULL;
-    rlink = NULL;
-    llink = NULL;
-
-    printf("Enter few lines:");
-    scanf(" %s", newline);
-    insert(newline);
-    char end[4] = "end";
-    int flag = 1;
-
-    while (flag != 0)
-    {
-        scanf(" %s", newline);
-        flag = strcmp(newline, end);
-        insert(newline);
+// Function to delete a line of text at a specific position
+void deleteAtPosition(int position) {
+    if (Start == NULL) { // If the list is empty
+        printf("No text exists.\n");
+        return;
     }
-    display();
 
-    printf("\nEnter the Line no. to insert:");
-    scanf("%d", &n);
-    printf("\nEnter the Line to be inserted:");
-    scanf(" %[^\n]", buffer);
-    insertnew(buffer, n);
-    display();
+    Node* temp = Start;
 
-    printf("\nEnter the line to be deleted:");
-    scanf("%d", &d);
-    Delete(d);
-    display();
+    if (position == 1) { // Delete the first node
+        Start = Start->Right;
+        if (Start != NULL) {
+            Start->Left = NULL;
+        }
+        free(temp);
+    } else { // Delete at position P
+        Node* Previous = NULL;
+        for (int i = 1; i < position && temp != NULL; i++) {
+            Previous = temp;
+            temp = temp->Right;
+        }
+        if (temp == NULL) {
+            printf("Invalid position.\n");
+            return;
+        }
+        Previous->Right = temp->Right;
+        if (temp->Right != NULL) {
+            temp->Right->Left = Previous;
+        }
+        free(temp);
+    }
+    printf("Deleted text at position %d.\n", position);
 }
