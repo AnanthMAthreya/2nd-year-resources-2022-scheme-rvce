@@ -4,6 +4,7 @@
 3. Aditi Shastri [Github](https://github.com/AditiShastri)
 4. Manojith Bhat [Github](https://github.com/ManojithBhat)
 5. Chirag Hariprasad [Github](https://github.com/ChiragHariprasad)
+6. Nidhi V Kulkarni [Github](https://github.com/nidhivk09)
 # Introduction
 This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Courses in this repository
@@ -38,8 +39,10 @@ For the study material for a few courses of nptel, [click here](https://github.c
 - If you are familiar with using GitHub:
   + If you want to add materials to a course that is not there on this repo, create a folder and send a push request.
   + Otherwise, just add files to the course folder and send a push request.
-  You will get credits. 
-- If you are not familiar with using GitHub, then please send materials to ananthmathreya@gmail.com
+  
+- If you are not familiar with using GitHub, then please refer [instruction manual](https://github.com/AnanthMAthreya/HowToContribute)
+
+  __You will get credits.__
 # See more
 - [3rd year resources](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce)
 
