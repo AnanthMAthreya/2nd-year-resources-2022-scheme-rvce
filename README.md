@@ -17,12 +17,24 @@ This repository contains the resources of the following 2nd year courses in the 
 5. [Artificial Intelligence and Machine Learning-AI244AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)
 ### For CS and IS Only
 1. [Data Structures and Applications-IS233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke)
+
+[Playlist](https://youtube.com/playlist?list=PLtg1mdkLERgkJX3pOmHAqf-Gwp5P5PcKh&si=YhgL05daIWnCAv43)
+
 2. [Operating Systems-CS235AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/Only%20for%20CS%20and%20IS/CS235AI-Operating%20Systems)
 3. [Linear Algebra and Probability Theory-MAT231CT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/Only%20for%20CS%20and%20IS/MA231TC-Linear%20Algebra%20and%20Probability%20theory)
 ### For CS,IS And AIML
 1. [Discrete Mathematical Structures and Combinatorics(DMS)-CS241AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CS241AT-Discrete%20Mathematical%20Structures%20and%20Combinatorics(DMS))
+
+Best playlist(Only for few topics)-[NPTEL course](https://nptel.ac.in/courses/106106183)
+
 2. [Design and Analysis of Algorithms(DAA)-CD343AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA))
-3. [Computer Networks(CN)-CY245AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CY245AT-Computer%20Networks(CN)) 
+
+[Playlist](https://youtube.com/playlist?list=PLtg1mdkLERgnS8XNGU4irXk7dRuji61ZX&si=xzHN3_Pr0sZQOUtL)
+
+3. [Computer Networks(CN)-CY245AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CY245AT-Computer%20Networks(CN))
+
+[Gatesmashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=TUx-Lcf4IOXb9e1r)
+
 ## Basket Courses
 1. [Environment and Sustainability-CV242AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/Basket%20courses/CV232AT%2CCV242AT-Environment%20and%20sustainability)
 2. [Bio Safety Standards and Ethics-BT232AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/Basket%20courses/BT232AT-Bio%20safety%20standards%20and%20ethics)
