@@ -1,10 +1,11 @@
   # Contributors
-1. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
-2. Ashwin Dharmavaram [Github](https://github.com/AshwinDEM)
-3. Aditi Shastri [Github](https://github.com/AditiShastri)
-4. Manojith Bhat [Github](https://github.com/ManojithBhat)
-5. Chirag Hariprasad [Github](https://github.com/ChiragHariprasad)
-6. Nidhi V Kulkarni [Github](https://github.com/nidhivk09)
+1. Master Contributor: Swastik Agrawal [Linkedin](https://www.linkedin.com/in/swastik-agarwal-797132291/)
+2. Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
+3. Ashwin Dharmavaram [Github](https://github.com/AshwinDEM)
+4. Aditi Shastri [Github](https://github.com/AditiShastri)
+5. Manojith Bhat [Github](https://github.com/ManojithBhat)
+6. Chirag Hariprasad [Github](https://github.com/ChiragHariprasad)
+7. Nidhi V Kulkarni [Github](https://github.com/nidhivk09)
 # Introduction
 This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Courses in this repository
