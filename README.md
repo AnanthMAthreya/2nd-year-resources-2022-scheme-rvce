@@ -12,6 +12,9 @@ This repository contains the resources of the following 2nd year courses in the 
 ## Professional Core Courses
 ### For AIML Only
 1. [Mathematics for AIML(MAIML)-MAT231ET](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/MAT231ET-Maths%20for%20AIML(MAIML))
+
+**Video Resources**
+- Second year mathematics by Department of Mathematics, RVCE(Only for Random variable and probability distributions) [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC3X0HmsQGgdb0gjEkoqBcej&si=hVEc8tuRs0yziCya)
 2. [Fundamentals of Data Structures and Data Analysis(DSDA)-AI233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA))
 3. [Foundations of Cyber Physical Systems(FCPS)-AI234AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI234AI-Cyber%20Physical%20Systems(FCPS))
 4. [Statistics For Data Science-AI235AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI235AT-Statistics%20for%20Data%20Science)
@@ -19,22 +22,40 @@ This repository contains the resources of the following 2nd year courses in the 
 ### For CS and IS Only
 1. [Data Structures and Applications-IS233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke)
 
-[Playlist](https://youtube.com/playlist?list=PLtg1mdkLERgkJX3pOmHAqf-Gwp5P5PcKh&si=YhgL05daIWnCAv43)
+**Video Resources**
+
+[DSA Playlist by Dr. Girish Rao Salanke](https://youtube.com/playlist?list=PLtg1mdkLERgkJX3pOmHAqf-Gwp5P5PcKh&si=YhgL05daIWnCAv43)
 
 2. [Operating Systems-CS235AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/Only%20for%20CS%20and%20IS/CS235AI-Operating%20Systems)
+
+**Video Resources**
+
+- [Gatesmashers playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=VK8jGOElBpKdLzWr)(For nice conceptual understanding)
+- [Sudhakar Atchala](https://youtube.com/playlist?list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&si=8ide5K7LE1Y6vGRt)(According to Galvin textbook)
+
 3. [Linear Algebra and Probability Theory-MAT231CT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/Only%20for%20CS%20and%20IS/MA231TC-Linear%20Algebra%20and%20Probability%20theory)
+
+**Video Resources**
+- Inferential Statistics by Department of Mathematics, RVCE [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC1sehCFHwelCdgd2jFP0QT9&si=OhlT4wVbiiM7C5oO)
+- Second year mathematics by Department of Mathematics, RVCE(Only for Random variable and probability distributions) [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC3X0HmsQGgdb0gjEkoqBcej&si=hVEc8tuRs0yziCya)
 ### For CS,IS And AIML
 1. [Discrete Mathematical Structures and Combinatorics(DMS)-CS241AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CS241AT-Discrete%20Mathematical%20Structures%20and%20Combinatorics(DMS))
 
-Best playlist(Only for few topics)-[NPTEL course](https://nptel.ac.in/courses/106106183)
+**Video Resources**
+- Discrete Mathematics-NPTEL course(Only for few topics) [Click Here](https://nptel.ac.in/courses/106106183)
+- Department of Mathematics, RVCE(Only Graph Theory) [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC2zjlFbBByqIszpCCucaR4h&si=F0jAkaSY1xR9JY0B)
 
 2. [Design and Analysis of Algorithms(DAA)-CD343AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA))
 
-[Playlist](https://youtube.com/playlist?list=PLtg1mdkLERgnS8XNGU4irXk7dRuji61ZX&si=xzHN3_Pr0sZQOUtL)
+**Video Resources**
+
+[DAA Playlist by Dr. Girish Rao Salanke](https://youtube.com/playlist?list=PLtg1mdkLERgnS8XNGU4irXk7dRuji61ZX&si=xzHN3_Pr0sZQOUtL)
 
 3. [Computer Networks(CN)-CY245AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CY245AT-Computer%20Networks(CN))
 
-[Gatesmashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=TUx-Lcf4IOXb9e1r)
+**Video Resources**
+
+[Gatesmashers Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=TUx-Lcf4IOXb9e1r)
 
 ## Basket Courses
 1. [Environment and Sustainability-CV242AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/Basket%20courses/CV232AT%2CCV242AT-Environment%20and%20sustainability)
