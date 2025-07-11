@@ -33,11 +33,11 @@ class KNN:
         return [self.predict_single(point) for point in x]
 
 # Load Dataset
-df = pd.read_csv('/Users/swastikagarwal/Downloads/SEM5_RVCE/LAB WORK/AIML/iris_csv (1).csv')
+df = pd.read_csv("https://raw.githubusercontent.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning/Lab%20codes/iris_csv%20(1).csv")
 
 # Label Encoding
 label_map = {'Iris-versicolor': 1, 'Iris-virginica': 2, 'Iris-setosa': 3}
-df['species'] = df['species'].map(label_map)
+df['class'] = df['class'].map(label_map)
 
 # Feature Matrix and Labels
 x = df.iloc[:, :-1].values

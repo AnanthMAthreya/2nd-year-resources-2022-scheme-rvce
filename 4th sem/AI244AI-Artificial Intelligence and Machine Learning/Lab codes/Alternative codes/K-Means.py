@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-from google.colab import drive
+#from google.colab import drive
 
 # Custom KMeans Implementation
 class KMeansCustom:
@@ -40,8 +40,9 @@ class KMeansCustom:
 
 
 # Load Dataset from Drive
-drive.mount('/content/drive')
-iris = pd.read_csv('/content/drive/MyDrive/Datasets/iris_csv (1).csv')
+#drive.mount('/content/drive')
+iris = pd.read_csv(r"https://raw.githubusercontent.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning/Lab%20codes/iris_csv%20(1).csv")
+#iris = pd.read_csv('/content/drive/MyDrive/Datasets/iris_csv (1).csv')
 
 # We'll use Petal Length and Petal Width for clustering
 data = iris.iloc[:, 2:4].values
