@@ -7,6 +7,7 @@
 6. Chirag Hariprasad [Github](https://github.com/ChiragHariprasad)
 7. Nidhi V Kulkarni [Github](https://github.com/nidhivk09)
 8. Himashree P [LinkedIn](https://www.linkedin.com/in/p-himashree-perumalla-348920286/)
+9. Gnanendra Naidu N [Github](https://github.com/gnanendranaidun)
 # Introduction
 This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Syllabus Books
