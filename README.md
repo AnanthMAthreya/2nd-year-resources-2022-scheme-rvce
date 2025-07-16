@@ -11,12 +11,6 @@
 10. Rutvik Hegde [Github](https://github.com/azure-glades)
 # Introduction
 This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
-# Syllabus Books
-1. [AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20Books/AI.pdf)
-2. [CD](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20Books/CD.pdf)
-3. [CS](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20Books/CS.pdf)
-4. [CY](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20Books/CY.pdf)
-5. [IS](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/blob/main/Syllabus%20Books/IS.pdf)
 # Courses in this repository
 ## Professional Core Courses
 ### For AIML Only
