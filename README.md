@@ -8,6 +8,7 @@
 7. Nidhi V Kulkarni [Github](https://github.com/nidhivk09)
 8. Himashree P [LinkedIn](https://www.linkedin.com/in/p-himashree-perumalla-348920286/)
 9. Gnanendra Naidu N [Github](https://github.com/gnanendranaidun)
+10. Rutvik Hegde [Github](https://github.com/azure-glades)
 # Introduction
 This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department(Some courses may be helpful for other CS-allied branches), RV College of Engineering
 # Syllabus Books
@@ -27,6 +28,8 @@ This repository contains the resources of the following 2nd year courses in the 
 3. [Foundations of Cyber Physical Systems(FCPS)-AI234AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI234AI-Cyber%20Physical%20Systems(FCPS))
 4. [Statistics For Data Science-AI235AT](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI235AT-Statistics%20for%20Data%20Science)
 5. [Artificial Intelligence and Machine Learning-AI244AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)
+### For CS Only
+1. [IoT and Embedded Systems-CS344AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/CS344AI-IoT%20And%20Embedded%20Systems)
 ### For CS and IS Only
 1. [Data Structures and Applications-IS233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke)
 
