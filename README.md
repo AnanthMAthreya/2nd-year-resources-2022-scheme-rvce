@@ -31,7 +31,7 @@ This repository contains the resources of the following 2nd year courses in the 
 ### For CS Only
 1. [IoT and Embedded Systems-CS344AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/CS344AI-IoT%20And%20Embedded%20Systems)
 ### For CS and IS Only
-1. [Data Structures and Applications-IS233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke)
+1. [Data Structures and Applications-IS233AI](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA)/Notes(of%20previous%20years)/Girish%20Rao%20Salanke)-Only Notes by Girish Rao Salanke
 
 **Video Resources**
 
