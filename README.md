@@ -11,6 +11,7 @@
 |8|Himashree P|-|[🔗](https://www.linkedin.com/in/p-himashree-perumalla-348920286/)|
 |9|Gnanendra Naidu N|[🔗](https://github.com/gnanendranaidun)|-|
 |10|Rutvik Hegde|[🔗](https://github.com/azure-glades)|-|
+|11|Nikita S Raj Kapini|[🔗](https://github.com/genomecrafter)|-|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __second year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
