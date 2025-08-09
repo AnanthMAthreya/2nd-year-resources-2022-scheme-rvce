@@ -11,6 +11,7 @@
 |8|Himashree P|-|[🔗](https://www.linkedin.com/in/p-himashree-perumalla-348920286/)|
 |9|Gnanendra Naidu N|[🔗](https://github.com/gnanendranaidun)|-|
 |10|Rutvik Hegde|[🔗](https://github.com/azure-glades)|-|
+|11|Nikita S Raj Kapini|[🔗](https://github.com/genomecrafter)|-|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __second year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
@@ -49,7 +50,7 @@ This repository contains the resources of the following 2nd year courses in the 
 |**Sl no.**|**Course Name**|**Course code**|**Semester**|**Github**|**Additional resources**|
 |-|-|-|-|-|-|
 |1|Discrete Mathematical Structures and Combinatorics(DMS)|CS241AT|4|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CS241AT-Discrete%20Mathematical%20Structures%20and%20Combinatorics(DMS))|<ul><li>Discrete Mathematics-NPTEL course(Only for few topics) [🔗](https://nptel.ac.in/courses/106106183)</li><li>Department of Mathematics, RVCE(Only Graph Theory) [🔗](https://youtube.com/playlist?list=PLlzzm7LKQHC2zjlFbBByqIszpCCucaR4h&si=F0jAkaSY1xR9JY0B)</li></ul>
-|2|Design and Analysis of Algorithms(DAA)|CD343AI|4|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA))|DAA Playlist by Dr. Girish Rao Salanke [🔗](https://youtube.com/playlist?list=PLtg1mdkLERgnS8XNGU4irXk7dRuji61ZX&si=xzHN3_Pr0sZQOUtL)|
+|2|Design and Analysis of Algorithms(DAA)|CD343AI|4|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA))|DAA Playlist by Dr. Girish Rao Salanke [🔗](https://youtube.com/playlist?list=PLtg1mdkLERgnS8XNGU4irXk7dRuji61ZX&si=xzHN3_Pr0sZQOUtL) Notes from the video lectures [🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CD343AI-Design%20and%20Analysis%20of%20Algorithms(DAA)/Notes/Girish%20Rao%20Salanke)|
 |3|Computer Networks(CN)|CY245AT|4|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/Common%20for%20CS%2CIS%2CAIML/CY245AT-Computer%20Networks(CN))|Gatesmashers Playlist [🔗](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=TUx-Lcf4IOXb9e1r)|
 
 ## Basket Courses
