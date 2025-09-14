@@ -2,7 +2,7 @@
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
 |1|Swastik Agrawal|-|[🔗](https://www.linkedin.com/in/swastik-agarwal-797132291/)|
-|2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|-|
+|2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Ashwin Dharmavaram|[🔗](https://github.com/AshwinDEM)|-|
 |4|Aditi Shastri|[🔗](https://github.com/AditiShastri)|-|
 |5|Manojith Bhat|[🔗](https://github.com/ManojithBhat)|-|
