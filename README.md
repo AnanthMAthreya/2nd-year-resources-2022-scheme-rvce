@@ -67,4 +67,5 @@ This repository contains the resources of the following 2nd year courses in the 
 For the study material for a few courses of nptel, [click here](https://github.com/AnanthMAthreya/NPTEL_Study_Materials.git)
 # See more
 - [3rd year resources](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce)
+- [4th year resources](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE)
 
