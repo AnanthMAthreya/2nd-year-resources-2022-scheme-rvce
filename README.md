@@ -35,7 +35,7 @@ This repository contains the resources of the following 2nd year courses in the 
 |2|Fundamentals of Data Structures and Data Analysis(DSDA)|AI233AI|3|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI233AI-Data%20structures%20and%20data%20analysis(DSDA))|-|
 |3|Foundations of Cyber Physical Systems(FCPS)|AI234AI|3|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI234AI-Cyber%20Physical%20Systems(FCPS))|-|
 |4|Statistics For Data Science|AI235AT|3|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/3rd%20sem/AIML%20core/AI235AT-Statistics%20for%20Data%20Science)|-|
-|5|Artificial Intelligence and Machine Learning|AI244AI|4|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|-|
+|5|Artificial Intelligence and Machine Learning|AI244AI|4|[🔗](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/4th%20sem/AI244AI-Artificial%20Intelligence%20and%20Machine%20Learning)|<table><tr><td>AI Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=NBG4MTgfWcYzbWnX)</td></tr><tr><td>ML Playlist [🔗](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=RWONPm3nUZ16kGZ-)</td></tr></table>|
 ### For CS Only
 |**Sl no.**|**Course Name**|**Course code**|**Semester**|**Github**|
 |-|-|-|-|-|
